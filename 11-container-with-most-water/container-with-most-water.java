@@ -20,6 +20,6 @@ class Solution {
                 right --;
             }
         }
-        return maxwater;
+        return maxwater;//return max water 
     }
 }
