@@ -39,7 +39,7 @@ If nums[j] != nums[i]
 
 At the end, the number of unique elements is i + 1
 
-\U0001f50d Example Dry Run
+🔍 Example Dry Run
 
 Input:
 
